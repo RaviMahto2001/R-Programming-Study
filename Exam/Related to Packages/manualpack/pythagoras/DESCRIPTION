@@ -1,0 +1,10 @@
+Package: pythagoras
+Type: Package
+Title: Its just a Sample Package
+Version: 1.0
+Date: 2022-05-11
+Author: RM
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: GPL-3
+RoxygenNote: 7.1.2
